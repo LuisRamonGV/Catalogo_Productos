@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -71,3 +72,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+=======
+# Catalogo_Productos
+In this project I implement an API with a user interface of a product catalog, using Node.js, NestJS, authentication with JWT and the React frontend
+>>>>>>> 362672a8f491bda8a44702d7b799d82172f88551
